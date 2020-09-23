@@ -1,0 +1,26 @@
+[Version]
+Version=1.0.0.0
+
+[SunOSSDict.exe <0009>]
+Dest=$(AppPath)
+Date=22/09/2011
+Time=19:33
+Version=1.0.0.0
+CABFilename=SunOSSDict.CAB
+CABINFFile=SunOSSDict.INF
+Uses1=msvbvm60.dll
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=msado26.tlb
+Uses8=MSWORD.OLB
+Uses9=DAO350.DLL
+Uses10=MSDATGRD.OCX
+Uses11=MSDATLST.OCX
+Uses12=Comdlg32.ocx
+Uses13=RICHTX32.ocx
+Uses14=MSCOMCTL.OCX
+Uses15=xpButtonStyle.ocx
+Uses16=sunossdict.mdb
